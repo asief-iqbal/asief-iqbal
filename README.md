@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <em>A driven AI Engineer and Full Stack Developer crafting intelligent, scalable solutions for the web.</em>
+  <em>Hi there 👋 </em>
 </p>
 
 <p align="center">
