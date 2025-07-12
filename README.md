@@ -17,9 +17,9 @@
 
 ---
 
-### '> whoami'
+### `> whoami`
 
-'''python
+```python
 class AsiefIqbalDieyaz:
     def __init__(self):
         self.username = "asief-iqbal"
@@ -42,7 +42,7 @@ class AsiefIqbalDieyaz:
 
 # System.out.println("Welcome to my digital space!");
 me = AsiefIqbalDieyaz()
-'''
+```
 
 ---
 
