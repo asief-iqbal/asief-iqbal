@@ -17,9 +17,9 @@
 
 ---
 
-### `> whoami`
+### '> whoami'
 
-```python
+'''python
 class AsiefIqbalDieyaz:
     def __init__(self):
         self.username = "asief-iqbal"
@@ -34,7 +34,7 @@ class AsiefIqbalDieyaz:
         ]
         self.contact = {
             "email": "asiefiqbal7@gmail.com",
-            "website": "[https://dieyaz.vercel.app/](https://dieyaz.vercel.app/)"
+            "website": "[https://dieyaz.codes/](https://dieyaz.codes/)"
         }
 
     def get_mission(self):
@@ -42,7 +42,7 @@ class AsiefIqbalDieyaz:
 
 # System.out.println("Welcome to my digital space!");
 me = AsiefIqbalDieyaz()
-```
+'''
 
 ---
 
